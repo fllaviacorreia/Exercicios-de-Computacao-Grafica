@@ -43,6 +43,6 @@
 //     glClearColor(0.0,0.0,0.0,1.0);		// colore o fundo da tela de preto
 //     glutInitWindowPosition(10,10);		// Define a posição da janela referente ao monitor
 //     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);	
-//     glutCreateWindow("Engrossando Linhas");
+//     glutCreateWindow("Pontos");
 // 	gluOrtho2D(0,400,400,0);			//aumenta ou diminui o plano ortogonal 2D
 // }
