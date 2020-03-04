@@ -1,5 +1,5 @@
 // /**
-//  * Flávia de Jesus correia 26 / 02 / 2020 - Computação Gráfica - Prática 4
+//  * Flávia de Jesus correia 26 / 02 / 2020 - Computação Gráfica - Prática 5
 //  * Desenhar cubo regular com lado L = 100. Fundo amarelo e linhas pretas
 //  */
 // 
@@ -11,16 +11,16 @@
 // 
 // int main(int argc, char *argv[])
 // {
-//     glutInit(&argc, argv);
-//     Inicializa();
-// 	glutDisplayFunc(Desenha);
-// 	glutMainLoop();
+//      glutInit(&argc, argv);
+//      Inicializa();
+// 		glutDisplayFunc(Desenha);
+// 		glutMainLoop();
 // }
 // 
 // void Desenha(){
 //     glClear(GL_COLOR_BUFFER_BIT);
 //     
-//     glColor3f(1.0, 0.0, 0.0);			//colore de preto o desenho
+//     glColor3f(1.0, 1.0, 0.0);			//colore de preto o desenho
 //     
 // 	glBegin(GL_LINES);			// primeiro quadrado
 // 		glVertex2i(100,100);
@@ -70,10 +70,10 @@
 // }
 // 
 // void Inicializa(){
-// 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);	
+// 	   glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);	
 //     glutInitWindowSize(640,520); 		// Define o tamanho da janela
-//     glClearColor(1,1,1,1);		// colore o fundo da tela de branco
+//     glClearColor(1,1,0,1);		// colore o fundo da tela de branco
 //     glutInitWindowPosition(10,10);		// Define a posição da janela referente ao monitor
 //     glutCreateWindow("Cubo Regular");	//Define um título para o frame
-// 	gluOrtho2D(0,400,400,0);			//aumenta ou diminui o plano ortogonal 2D
+// 	   gluOrtho2D(0,400,400,0);			//aumenta ou diminui o plano ortogonal 2D
 // }

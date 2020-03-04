@@ -31,12 +31,17 @@
 	<Files>
 		<File Name="main.c"/>
 		<File Name="Prática 2 - Questao 1.c"/>
-		<File Name="Prática 3.c"/>
 		<File Name="Prática 2 - Questão 2.c"/>
 		<File Name="Prática 3 - Questão 1.c"/>
 		<File Name="Prática 3 - Questão 2.c"/>
 		<File Name="Prática 3 - Questão 3.c"/>
 		<File Name="Prática 3 - Questão 4.c"/>
+		<File Name="Prática 4 - Questão 1.c"/>
+		<File Name="Prática 4 - Questão 2.c"/>
+		<File Name="Prática 4 - Questão 3.c"/>
+		<File Name="Prática 4 - Questão 4.c"/>
+		<File Name="Prática 5 - Questão 1.c"/>
+		<File Name="Prática 5 - Questão 2.c"/>
 	</Files>
 	<AppIcon>
 		0000010001003030000001002000A82500001600000028000000300000006000
